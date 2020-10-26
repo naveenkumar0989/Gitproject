@@ -1,1 +1,2 @@
 This is data file. We are ging to practise on git and git hub.
+I will be working on all the commands on 26thoct2020
